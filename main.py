@@ -12,7 +12,6 @@ for f in files:
     #  print(repr(moddate))
     # splitdate = moddate.split()
     # print(splitdate[1])
-    #adding for git change
     ogname = dir + f
     print(ogname)
     #Splitting filenames with underscore and period to get the "date and time"
