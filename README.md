@@ -9,7 +9,7 @@ The software which uploaded those files, didn't do much in terms of orgnizing th
 
 So here's a small script to solve that problem.
 ### Before
-![Messy Call Recordings](/images/callrecordings.jpg)
+![Messy Call Recordings](/images/callrecordings.jpeg)
 
 ### Filename format here
 
@@ -20,7 +20,7 @@ Call@xxxxxxxxxx(xxxxxxxxxx)_**20191018**122926 -
 * The xxxxxxxxxx part is the caller's phone number.
 
 ### Commandline Output by the code
-![Commandline Outputs](/images/outputs.jpg)
+![Commandline Outputs](/images/outputs.jpeg)
 
 ### After
-![Organized Call Recordings](/images/organizedrecordings.jpg)
+![Organized Call Recordings](/images/organizedrecordings.jpeg)
