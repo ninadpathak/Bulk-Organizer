@@ -26,10 +26,6 @@ def organizeFiles(fileName):
         print("Folder created " + folder)
         shutil.move(ogname, folder)
         print("Moved " + ogname + " to " + folder)
-
 dir = input("Enter the complete path: ") + "\\"
 files = os.listdir(dir)
-
-
 for f in files:
-    organizeFiles(f)
